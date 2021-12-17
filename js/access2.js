@@ -19,3 +19,4 @@ let clicked = localStorage.getItem('ecard');
                 </div>`;
             postLayout.innerHTML = html
         });    
+

@@ -40,3 +40,4 @@ let output = localStorage.setItem('data', JSON.stringify(data));
 function routedPage(onclick) {
     localStorage.setItem('ecard', onclick)
 }
+
